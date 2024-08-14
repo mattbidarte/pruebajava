@@ -15,7 +15,8 @@ public class Principal {
 				+ "5. Info de Clase\n"
 				+ "6. Socios de una Clase\n"
 				+ "7. Salir\n"
-				+ "8. OPCIÓN: ");	
+				+ "8. Salir\n"
+				+ "9. OPCIÓN: ");	
 		
 	}
 	
